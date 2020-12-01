@@ -1,1 +1,2 @@
 # MNIST
+ACCURACY => 0.9917
